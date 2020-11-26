@@ -1,0 +1,7 @@
+Nesse projeto foram elaborados dois aplicativos:
+
+*A pasta fisioaux1.2  é o aplicativo para os auxiliares
+
+*A pasta FisioApp 1.3 é o aplicativo destinado para os fisioterapeutas;
+
+* A pasta Apk-Release tem um "executavel" que instala a aplicação no celular, podendo dar problemas por não ter sido registrado na PlayStore.
